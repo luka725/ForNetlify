@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <div>
       <h1 className="title">
-        <span>Next.Js X Netlify</span> First
+        <span>Next.Js X Netlify Koklonozi</span> First
       </h1>
       <style jsx>
         {`
